@@ -11,7 +11,7 @@
 #### Español
 
 - Algunos ejercicios de SQL para practicar
-- estos ejercicios los pueden encontrar [aqui](https://josejuansanchez.org/bd/ejercicios-consultas-sql/index.html#ejercicios.-realizaci%C3%B3n-de-consultas-sql "aqui") para poder practicar si lo desean
+- Estos ejercicios los pueden encontrar [aqui](https://josejuansanchez.org/bd/ejercicios-consultas-sql/index.html#ejercicios.-realizaci%C3%B3n-de-consultas-sql "aqui") para poder practicar si lo desean
 - Creditos a José Juan Sánchez Hernández
 
 # Technology / Software utilizado
